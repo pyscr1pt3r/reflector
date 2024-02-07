@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'reflector = reflector.main:main'
+            'refl = refl.main:main'
         ]
     },
     url='https://github.com/pyscr1pt3r/refl',
